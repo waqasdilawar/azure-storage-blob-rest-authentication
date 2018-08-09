@@ -10,8 +10,8 @@
 
     internal static class Program
     {
-        static string StorageAccountName = "qcstestdrive";
-        static string StorageAccountKey = "mlwHxw6Sk/Oc9K7u3oqr7122Ae8kCroFCRxAR6kiuj8pNc6ZXc3fw71gOuuR6C7hM1JQ5Hv2+LP+MQhmKqvplw==";
+        static string StorageAccountName = "";//your account name
+        static string StorageAccountKey = ""; //your account key 
         
         private static void Main()
         {
